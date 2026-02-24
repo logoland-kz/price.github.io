@@ -1,2 +1,2 @@
-# price.github.io
+# price
 price
